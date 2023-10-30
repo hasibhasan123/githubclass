@@ -1,2 +1,2 @@
-# medical bill
-# salary bill
+# medical billings
+# salary billings
